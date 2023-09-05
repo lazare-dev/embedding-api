@@ -1,6 +1,3 @@
-Certainly! Here's a basic README.md for your Word Embedding App with ChromaDB integration:
-
-
 # Word Embedding App with ChromaDB
 
 This application processes text data, trains word embeddings, and stores them in ChromaDB. It also provides an API to retrieve embeddings for given prompts.
@@ -12,13 +9,13 @@ To run this application locally, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/word-embedding-app.git
+   git clone https://github.com/your-username/embedding-app.git
    ```
 
 2. Change your current directory to the project directory:
 
    ```bash
-   cd word-embedding-app
+   cd embedding-app
    ```
 
 3. Install the required Python packages:
@@ -86,7 +83,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Thanks to the ChromaDB team for providing the database and support.
 
 ```
-
-Replace `"your-username"` in the clone URL with your GitHub username or organization name.
-
-Feel free to customize this README to include more details or specific instructions relevant to your application.
