@@ -1,4 +1,4 @@
-# Word Embedding App with ChromaDB
+# Embedding App with ChromaDB
 
 This application processes text data, trains word embeddings, and stores them in ChromaDB. It also provides an API to retrieve embeddings for given prompts.
 
